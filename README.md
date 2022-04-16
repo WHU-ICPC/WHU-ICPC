@@ -1,5 +1,5 @@
-# WHU_ACM
+# WHU-ICPC
 
-武汉大学 ACM / ICPC 集训队仓库
+武汉大学 ICPC 集训队仓库
 
 文件按学期分类
