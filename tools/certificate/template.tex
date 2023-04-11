@@ -1,0 +1,85 @@
+\documentclass[landscape]{article}
+\usepackage{xeCJK}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+
+\geometry{a4paper}
+\geometry{left=1.5cm,right=1.5cm,top=2.2cm,bottom=2.2cm}
+
+\setCJKfamilyfont{song}{SimSun}
+\newcommand{\song}{\CJKfamily{song}} % 加载字体库字体
+\setCJKfamilyfont{yh}[AutoFakeBold={2.5}]{Microsoft YaHei}
+\newcommand{\yh}{\CJKfamily{yh}}
+\setCJKfamilyfont{hwl}{STLiti.ttf} % 加载本地ttf
+\newcommand{\hwl}{\CJKfamily{hwl}}
+
+\pagestyle{empty}
+% \newcommand {\showBorder}[1]{\fbox{#1}} % debug 用
+\newcommand {\showBorder}[1]{#1}
+
+\begin{document}
+
+\begin{center}
+    \fontsize{40pt}{\baselineskip}\selectfont \yh \textbf{CONTEST}
+\end{center}
+
+\vspace{1.8cm}
+
+\showBorder{
+\begin{minipage}[c]{0.5\linewidth}
+    \begin{center}
+        \includegraphics[width=0.95\linewidth]{ICPClogo.png}
+    \end{center}
+\end{minipage}
+}
+\hspace{0.02\linewidth}
+\showBorder{
+\begin{minipage}[c]{0.4\linewidth}
+    \vspace{1cm}
+    \hwl
+
+    \fontsize{36pt}{\baselineskip}\selectfont 授予：NAME
+
+    \vspace{1.2cm}
+
+    \begin{center}
+        \fontsize{40pt}{\baselineskip}\selectfont AWARD
+    \end{center}
+
+    \vspace{1.0cm}
+
+    \begin{center}
+        \fontsize{28pt}{\baselineskip}\selectfont 特发此证，以资鼓励
+    \end{center}
+\end{minipage}
+}
+
+\vspace{2cm}
+\showBorder{
+\begin{minipage}[t]{0.5\linewidth}
+    \vspace{0cm}
+    \hwl
+
+    \begin{center}
+        \fontsize{22pt}{\baselineskip}\selectfont SCHOOL
+    \end{center}
+\end{minipage}
+}
+\hspace{0.02\linewidth}
+\showBorder{
+\begin{minipage}[t]{0.4\linewidth}
+    \vspace{0cm}
+
+    \hwl
+    \raggedleft
+
+    \fontsize{22pt}{\baselineskip}\selectfont ORGANIZATION
+
+    \vspace{0.5cm}
+
+    \fontsize{24pt}{\baselineskip}\selectfont DATE
+\end{minipage}
+}
+
+\end{document}
