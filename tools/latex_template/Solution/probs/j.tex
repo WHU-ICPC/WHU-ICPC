@@ -1,0 +1,18 @@
+\renewcommand{\problemname}{J. 传闻档案}
+
+\begin{frame}\frametitle{\problemname}
+
+    \begin{block}{题意}
+        给一个带权有向图，每个点价值为此点能够到达的点的最大权值，求所有点价值和。
+    \end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{解法}
+        反向建边，按点权从大到小进行 dfs 即可。每个点的价值即为这次 dfs 根节点的权值。
+        
+        注意每个点只访问一次。
+
+        也可以使用 tarjan 缩点，每个连通块的权值变为块中点的最大权值，缩点后 dfs 求出答案。
+    \end{block}
+\end{frame}

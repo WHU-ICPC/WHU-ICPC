@@ -1,0 +1,21 @@
+\renewcommand{\problemname}{E. 和谐之树·改}
+
+\begin{frame}\frametitle{\problemname}
+
+    \begin{block}{题意}
+        区间询问 D 题的最大编号之和。
+    \end{block}
+
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{题解}
+        考虑选择左子树的时候，左边区间长度必须是 $2^x+1$，右边长度必须是 $2^x$，那么选择左子树时，当前区间的二进制必须形如 $100\dots001$.
+
+        考虑从当前长度 $n$ 的节点走到某棵子树时，会变成 $n>>1|(1 \ or \ 0)$，那么走左子树的过程最多只会发生一次，即最开始长度的二进制表示中，第二高位 $1$ 的位置处。
+
+        进一步发现，区间长度 $n$ 最高位的两个 $1$ 确定后，最大编号也确定了。那么 1e18 内的不同最大编号只有 $\log^2v$ 级别。打表同样也能发现。
+
+        预处理后即可回答。注意 $T log^2 v$ 的 $log$ 比较大，可能不能通过。
+    \end{block}
+\end{frame}

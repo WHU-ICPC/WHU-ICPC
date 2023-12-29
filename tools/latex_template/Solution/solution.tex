@@ -1,0 +1,95 @@
+\documentclass{beamer}
+%\setbeamertemplate{navigation symbols}{}
+\usepackage{xeCJK}
+\usepackage[orientation=landscape,size=custom,width=16,height=9,scale=0.5,debug]{beamerposter}%修改比例，16:9
+\usepackage{eqnarray}
+%\usepackage{zhfontcfg_mac}
+\usepackage{enumitem}
+\usepackage{tikz,pgfplots,pgfplotstable}
+%\usepackage{mathptmx}
+\usepackage{eulervm}
+\usepackage[T1]{fontenc}
+\usepackage{beamerthemeshadow}
+\usepackage{qrcode}
+\usepackage{ulem}
+\usefonttheme{professionalfonts}
+
+\setlength{\parskip}{0.5\baselineskip}
+
+\begin{document}
+\title{2021 Wuhan University Freshman Programming Contest}
+\author{WHU ICPC 集训队}
+\date{Apr. 4th, 2022} 
+
+\newcommand{\problemname}{A}
+
+\begin{frame}
+\titlepage
+
+\end{frame}
+
+\makeatletter
+\newcommand\resetstackedplots{
+\makeatletter
+\pgfplots@stacked@isfirstplottrue
+\makeatother
+\addplot [forget plot,draw=none,x=P,y=z] coordinates{\problemdata};
+}
+\makeatother
+
+\begin{frame}\frametitle{比赛小结}
+
+\begin{itemize}
+\item[$\cdot$] 本次比赛共收到 777 份提交代码。
+\item[$\cdot$] 其中 185 份代码正确。
+\item[$\cdot$] 82 名参赛选手有提交记录。
+\item[$\cdot$] 73 名参赛选手至少通过一题。
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{各题通过情况}
+    \include{overviewdata}
+    \begin{tikzpicture}
+	\pgfplotsset{                ybar stacked,
+		y axis line style = { opacity = 0 },
+		% axis x line       = none,
+		width=\textwidth,
+		height=.75\textheight,
+		legend style={at={(0.5,1)},
+			anchor=south,legend columns=-1},
+		symbolic x coords={A,B,C,D,E,F,G,H,I,J},
+		xtick=data,
+		ymajorgrids=true,
+		yminorgrids=true,
+		xmajorgrids=false,
+		xminorgrids=false,
+		xminorticks=false,
+		minor y tick num=3,
+		xtick style={draw=none},
+		ymin=0,ymax=180,
+		ylabel={\# of submissions},
+		grid style=dashed,}
+	
+		\begin{axis}[bar shift=3pt,bar width=6pt,legend style = {at={(0.3,1)},anchor=south west}]
+		\addplot [fill={rgb,255:red,156; green,255; blue,87}] table [x=P,y=AC]{\subdata};
+		\addplot [fill={rgb,255:red,255; green,0; blue,0}] table [x=P,y=NP]{\subdata};
+		\legend{通过,未通过}
+		\end{axis}
+\end{tikzpicture}
+\end{frame}
+
+\include{probs/a}
+\include{probs/b}
+\include{probs/c}
+\include{probs/d}
+\include{probs/e}
+\include{probs/f}
+\include{probs/g}
+\include{probs/h}
+\include{probs/i}
+\include{probs/j}
+\iffalse
+\fi
+
+\end{document}

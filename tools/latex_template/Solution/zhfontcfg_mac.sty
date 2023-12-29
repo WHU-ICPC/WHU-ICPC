@@ -1,0 +1,37 @@
+% xetex/xelatex ??????
+
+\ProvidesPackage{zhfontcfg}
+\usepackage{fontspec,xunicode}
+\usepackage[indentfirst]{xeCJK}
+\defaultfontfeatures{Mapping=tex-text} %?????????? tex ?????????????????
+
+ % ????
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%???????????????????????????`fc-list :lang=zh` ???????????
+\newcommand\fontnamehei{思源黑体}
+\newcommand\fontnamesong{思源宋体}
+\newcommand\fontnamekai{楷体}
+\newcommand\fontnamemono{CMU Typewriter Text}
+\newcommand\fontnameroman{CMU Serif}
+
+%???????????
+%\setCJKmainfont[BoldFont=\fontnamehei]{\fontnamesong}
+%\setCJKsansfont[BoldFont=\fontnamehei]{\fontnamesong}
+\setmonofont{\fontnamemono}
+
+\let\newfontinstance=\newfontfamily
+
+%??
+\newfontinstance\KAI {\fontnamekai}
+\newcommand{\kai}[ 1]{{\KAI #1}}
+
+%??
+%\newfontinstance\HEI{\fontnamehei}
+%\newcommand{\hei}[ 1]{{\HEI #1}}
+
+%??
+\newfontinstance\ENF{\fontnameroman }
+\newcommand{\en}[1 ]{\,{\ENF #1 }\,}
+\newcommand{\EN}{\,\ENF\, }

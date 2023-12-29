@@ -1,0 +1,37 @@
+\renewcommand{\problemname}{F. 仓鼠与炸弹}
+
+\begin{frame}\frametitle{\problemname}
+    \begin{block}{题意}
+        问字符串 $S$ 有多少个字串 $T = S[l,r]$ 满足：
+
+		\begin{itemize}
+			\item 1. $T$ 的长度大于等于 $2m$
+			\item 2. $T[1,m] = \mathrm{reverse}(T[|T|-m+1,|T|])$
+		\end{itemize}
+    \end{block}
+
+    \pause
+
+	\begin{block}{解法}
+	字符串哈希：
+
+	定义: 字符串 $S = s_1, s_2, \dots s_n$ 的哈希为 $Hash(S) = (s_1 a^1 + s_2 a^2 + \dots + s_n a^n) \pmod{p}$
+
+	我们认为，如果两个字符串的 hash 值相等，那么他们\textbf{大概率}是相等的
+	
+	同时，我们可以 $O(1)$ 地求出 $Hash(S[l,r])$ 和 $Hash(\mathrm{reverse}(S[l,r]))$
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{解法}
+	从左到右枚举 $i$，找到有多少个位置 $j\le i-m$ 满足 $Hash(\mathrm{reverse}(S[i-m+1,i]))=Hash(S[j-m+1,j])$
+	复杂度 $O(n)$ 或者 $O(n\log n)$
+	\end{block}
+
+	\begin{block}{细节}
+	如果只对一个 $10^9$ 级别的质数取模的话，大概率会 WA（生日悖论）
+
+	如果对 $2^{64}$ 次方自然溢出取模的话，可以构造出两个不同的长度在1000左右的字符串，他们的哈希值相同
+	\end{block}
+\end{frame}

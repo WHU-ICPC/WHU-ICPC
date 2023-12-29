@@ -1,0 +1,17 @@
+\renewcommand{\problemname}{H. wwhhuu}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{题意}
+		构造一个长为 $n$ 的字符串，使子序列 \texttt{whu} 个数最多。
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{题解}
+		题目名已经把做法写出来了，显然 www...hhh...uuu... 的相应子序列个数最多。
+
+		注意 $w,h,u$ 谁多谁少并不重要，只要三者个数差小于等于 $1$ 即可。
+		
+		证明可以考虑调整法，如果不是 www...hhh...uuu... 往这个方向调整不会变差，如果个数差大于 $1$ 往小于 $1$ 调整答案也不会变得更差。
+	\end{block}
+\end{frame}

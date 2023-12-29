@@ -1,0 +1,23 @@
+\renewcommand{\problemname}{G. 寄寄子的生日}
+
+\begin{frame}\frametitle{\problemname}
+
+    \begin{block}{题意}
+		给 $2\sim n$ 排列，只能交换值互质的两个数，构造一个 $2n$ 次交换后有序的方案。
+    \end{block}
+
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	
+	\begin{block}{题解}
+		考虑通过找到最大的质数作为中间点交换，可以在两步内将任意一个数归位。
+
+		具体的 \texttt{a b p -> p b a -> b p a}，假如 $p$ 是最大质数，那么可以把 $b$ 归位。
+
+		关于 $2\sim n$ 内最大的质数 $p$，一定有 $2\times p>n$ 成立，至少在题目范围内是正确的。
+
+		由于 $n$ 开的比较小，因此直接暴力也可以通过，主要是想多给大家一点签到题。
+	\end{block}
+\end{frame}		
+

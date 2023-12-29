@@ -1,0 +1,21 @@
+\renewcommand{\problemname}{D. 和谐之树}
+
+\begin{frame}\frametitle{\problemname}
+	
+	\begin{block}{题意}
+		求对区间 $[1,n]$ 建立线段树后最大节点编号
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	
+	\begin{block}{题解}
+		考虑最大节点编号在当前左子树还是右子树。
+
+		如果左边比右边深度更深，那么在左子树，否则在右子树。
+
+		可以发现，当区间长度从 $2^x$ 变到 $2^x+1$ 长度时，线段树深度会 +1.
+
+		快速比较两个子树深度即可
+	\end{block}
+\end{frame}

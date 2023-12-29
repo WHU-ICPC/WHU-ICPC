@@ -1,0 +1,7 @@
+\renewcommand{\problemname}{K. Tree}
+
+\begin{frame}\frametitle{\problemname}
+
+    可以对 $1-n$ 每个权值建一个平衡树，权值为节点所对应的深度，\pause 使用 dsu on tree，在 dfs 的过程中枚举 lca\pause ，保留重儿子，暴力枚举其余子节点，可以得到所对应的另一个节点的权值\pause ，在相应的平衡树中查询满足深度要求的节点数有多少即可。
+
+\end{frame}

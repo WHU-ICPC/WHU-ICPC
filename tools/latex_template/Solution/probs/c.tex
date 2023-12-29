@@ -1,0 +1,39 @@
+\renewcommand{\problemname}{C. osu! catch}
+
+\begin{frame}\frametitle{\problemname}
+    \begin{block}{题意}
+	有$N$个水果，第$i$个水果会于$t_i$时刻末在位置$p_i$落下，如果玩家在此时恰好移动到同一位置，就接住了这个水果。
+
+	有以下3种移动方式，分别是原地不动，移动一个位置，或等概率移动1个位置到k个位置。
+
+	求在最优的移动策略下，接到水果个数的期望。
+	\end{block}
+	
+\end{frame}
+
+\begin{frame}\frametitle{\problemname}
+	\begin{block}{解法}
+		注意到要求解的是接住水果个数的\textbf{期望}，因此我们需要倒序对水果进行dp。
+
+		设$dp(i, j)$表示时刻$i$初，玩家处在位置$j$，后续能接住个数的最大期望值。
+
+		列出3种转移方式，从时刻$i+1$向时刻$i$转移。
+		
+		\vspace{-0.2in}
+		$$
+		dp(i, j)=v(i,j)+\max\begin{cases}
+			dp(i+1, j),\ dp(i+1, j-1),\ dp(i+1, j+1)&\\
+			\frac{1}{k}\sum_{d=j-k}^{j-1}dp(i+1, d),\, \frac{1}{k}\sum_{d=j+1}^{j+k}dp(i+1, d)&\\
+		\end{cases}
+		$$
+
+		其中，$v(i,j)$ 表示 i 时间 j 位置是否落下水果。
+
+		区间和可以用前缀和优化，注意特判快速移动遇到边界的情况。
+
+		最后答案为$\max_{1\leq j \leq m}dp(1, j)$
+
+		这种做法的复杂度为$O(m*t_n)$。
+	\end{block}
+
+\end{frame}

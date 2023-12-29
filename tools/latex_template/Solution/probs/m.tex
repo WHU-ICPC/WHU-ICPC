@@ -1,0 +1,34 @@
+\renewcommand{\problemname}{M. XOR Sum}
+
+\begin{frame}\frametitle{\problemname}
+    首先有
+
+    $$ \oplus_{i=1}^{n}i =\left\{
+    \begin{array}{rcl}
+    n,   & n \bmod 4 = 0; \\
+    1,   & n \bmod 4 = 1; \\
+    n+1, & n \bmod 4 = 2; \\
+    0,   & n \bmod 4 = 3.
+    \end{array} \right. $$    
+\end{frame}
+
+
+\begin{frame}\frametitle{\problemname}
+    于是有
+    
+    $$
+    \sum_{k=1}^{t} \sum_{i=1}^{n} f(i,k) = \sum_{k=1}^{t}\sum_{i=1}^{n}\ [i^k \bmod 4 = 0\ \text{or}\ 2]\ i^k $$
+    $$\qquad \qquad \ \ + \sum_{k=1}^{t} \sum_{i=1}^{n}\ [i^k \bmod 4 = 1\ \text{or}\ 2]
+    $$
+    
+\end{frame}
+
+
+\begin{frame}\frametitle{\problemname} 
+分析 $k$ 和 $i$ 的奇偶性可以简单计算出后一项，前一项则等于
+    
+$$ \sum_{k=1}^{t}\ 2^k\sum_{i=1}^{m}\ i^k $$
+
+其中 $m = \lfloor \frac{n}{2} \rfloor$，这是一个关于 $m$ 的 $t+1$ 次多项式，使用拉格朗日插值公式代入 $t+2$ 个点值进行单点求值即可。
+
+\end{frame}
