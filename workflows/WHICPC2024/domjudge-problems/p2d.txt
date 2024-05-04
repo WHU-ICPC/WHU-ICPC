@@ -1,0 +1,8 @@
+https://github.com/cn-xcpc-tools/Polygon2DOMjudge
+
+先把polygon package解压到当前目录下的package/
+运行doall.bat / doall.sh
+
+转换成domjudge格式：
+for /d %i in (package/problems/*) do python Polygon2DOMjudge/p2d/p2d.py package/problems/%i/ -o %i/
+支持spj和交互题

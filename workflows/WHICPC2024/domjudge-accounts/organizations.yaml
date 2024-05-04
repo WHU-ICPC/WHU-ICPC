@@ -1,0 +1,812 @@
+-
+   name: 安徽大学
+   formalname: 安徽大学
+   id: INST-1
+-
+   name: 安徽工程大学
+   formalname: 安徽工程大学
+   id: INST-2
+-
+   name: 安徽工业大学
+   formalname: 安徽工业大学
+   id: INST-3
+-
+   name: 安徽农业大学
+   formalname: 安徽农业大学
+   id: INST-4
+-
+   name: 北华大学
+   formalname: 北华大学
+   id: INST-5
+-
+   name: 北京第二外国语学院成都附属中学
+   formalname: 北京第二外国语学院成都附属中学
+   id: INST-6
+-
+   name: 北京航空航天大学
+   formalname: 北京航空航天大学
+   id: INST-7
+-
+   name: 北京化工大学
+   formalname: 北京化工大学
+   id: INST-8
+-
+   name: 北京理工大学
+   formalname: 北京理工大学
+   id: INST-9
+-
+   name: 北京信息科技大学
+   formalname: 北京信息科技大学
+   id: INST-10
+-
+   name: 北京邮电大学
+   formalname: 北京邮电大学
+   id: INST-11
+-
+   name: 常熟理工学院
+   formalname: 常熟理工学院
+   id: INST-12
+-
+   name: 成都大学
+   formalname: 成都大学
+   id: INST-13
+-
+   name: 成都东软学院
+   formalname: 成都东软学院
+   id: INST-14
+-
+   name: 成都工业学院
+   formalname: 成都工业学院
+   id: INST-15
+-
+   name: 成都锦城学院
+   formalname: 成都锦城学院
+   id: INST-16
+-
+   name: 成都理工大学
+   formalname: 成都理工大学
+   id: INST-17
+-
+   name: 成都信息工程大学
+   formalname: 成都信息工程大学
+   id: INST-18
+-
+   name: 大连大学
+   formalname: 大连大学
+   id: INST-19
+-
+   name: 大连海事大学
+   formalname: 大连海事大学
+   id: INST-20
+-
+   name: 大连理工大学
+   formalname: 大连理工大学
+   id: INST-21
+-
+   name: 代码源
+   formalname: 代码源
+   id: INST-22
+-
+   name: 电子科技大学
+   formalname: 电子科技大学
+   id: INST-23
+-
+   name: 东北大学
+   formalname: 东北大学
+   id: INST-24
+-
+   name: 东莞理工学院
+   formalname: 东莞理工学院
+   id: INST-25
+-
+   name: 东华理工大学
+   formalname: 东华理工大学
+   id: INST-26
+-
+   name: 佛山科学技术学院
+   formalname: 佛山科学技术学院
+   id: INST-27
+-
+   name: 福建理工大学
+   formalname: 福建理工大学
+   id: INST-28
+-
+   name: 福建师范大学
+   formalname: 福建师范大学
+   id: INST-29
+-
+   name: 阜阳师范大学
+   formalname: 阜阳师范大学
+   id: INST-30
+-
+   name: 复旦大学
+   formalname: 复旦大学
+   id: INST-31
+-
+   name: 广东财经大学
+   formalname: 广东财经大学
+   id: INST-32
+-
+   name: 广东工业大学
+   formalname: 广东工业大学
+   id: INST-33
+-
+   name: 广东技术师范大学
+   formalname: 广东技术师范大学
+   id: INST-34
+-
+   name: 广西大学
+   formalname: 广西大学
+   id: INST-35
+-
+   name: 广西科技大学
+   formalname: 广西科技大学
+   id: INST-36
+-
+   name: 广西外国语学院
+   formalname: 广西外国语学院
+   id: INST-37
+-
+   name: 广州南方学院
+   formalname: 广州南方学院
+   id: INST-38
+-
+   name: 贵州大学
+   formalname: 贵州大学
+   id: INST-39
+-
+   name: 国防科技大学
+   formalname: 国防科技大学
+   id: INST-40
+-
+   name: 海南大学
+   formalname: 海南大学
+   id: INST-41
+-
+   name: 杭州电子科技大学
+   formalname: 杭州电子科技大学
+   id: INST-42
+-
+   name: 合肥大学
+   formalname: 合肥大学
+   id: INST-43
+-
+   name: 合肥工业大学
+   formalname: 合肥工业大学
+   id: INST-44
+-
+   name: 合肥工业大学宣城校区
+   formalname: 合肥工业大学宣城校区
+   id: INST-45
+-
+   name: 河海大学
+   formalname: 河海大学
+   id: INST-46
+-
+   name: 河南工程学院
+   formalname: 河南工程学院
+   id: INST-47
+-
+   name: 河南科技学院
+   formalname: 河南科技学院
+   id: INST-48
+-
+   name: 河南农业大学
+   formalname: 河南农业大学
+   id: INST-49
+-
+   name: 河南师范大学
+   formalname: 河南师范大学
+   id: INST-50
+-
+   name: 黑龙江大学
+   formalname: 黑龙江大学
+   id: INST-51
+-
+   name: 衡阳师范学院
+   formalname: 衡阳师范学院
+   id: INST-52
+-
+   name: 湖北第二师范学院
+   formalname: 湖北第二师范学院
+   id: INST-53
+-
+   name: 湖北工业大学
+   formalname: 湖北工业大学
+   id: INST-54
+-
+   name: 湖北中医药大学
+   formalname: 湖北中医药大学
+   id: INST-55
+-
+   name: 湖南城市学院
+   formalname: 湖南城市学院
+   id: INST-56
+-
+   name: 湖南工学院
+   formalname: 湖南工学院
+   id: INST-57
+-
+   name: 湖南科技大学
+   formalname: 湖南科技大学
+   id: INST-58
+-
+   name: 湖南理工学院
+   formalname: 湖南理工学院
+   id: INST-59
+-
+   name: 湖南农业大学
+   formalname: 湖南农业大学
+   id: INST-60
+-
+   name: 湖南涉外经济学院
+   formalname: 湖南涉外经济学院
+   id: INST-61
+-
+   name: 湖南师范大学
+   formalname: 湖南师范大学
+   id: INST-62
+-
+   name: 华北科技学院
+   formalname: 华北科技学院
+   id: INST-63
+-
+   name: 华北理工大学
+   formalname: 华北理工大学
+   id: INST-64
+-
+   name: 华东交通大学
+   formalname: 华东交通大学
+   id: INST-65
+-
+   name: 华东师范大学
+   formalname: 华东师范大学
+   id: INST-66
+-
+   name: 华南理工大学
+   formalname: 华南理工大学
+   id: INST-67
+-
+   name: 华南农业大学
+   formalname: 华南农业大学
+   id: INST-68
+-
+   name: 华南师范大学
+   formalname: 华南师范大学
+   id: INST-69
+-
+   name: 华中科技大学
+   formalname: 华中科技大学
+   id: INST-70
+-
+   name: 华中农业大学
+   formalname: 华中农业大学
+   id: INST-71
+-
+   name: 华中师范大学
+   formalname: 华中师范大学
+   id: INST-72
+-
+   name: 华中师范大学第一附属中学
+   formalname: 华中师范大学第一附属中学
+   id: INST-73
+-
+   name: 怀化学院
+   formalname: 怀化学院
+   id: INST-74
+-
+   name: 黄冈师范学院
+   formalname: 黄冈师范学院
+   id: INST-75
+-
+   name: 惠州学院
+   formalname: 惠州学院
+   id: INST-76
+-
+   name: 吉首大学
+   formalname: 吉首大学
+   id: INST-77
+-
+   name: 集美大学
+   formalname: 集美大学
+   id: INST-78
+-
+   name: 江汉大学
+   formalname: 江汉大学
+   id: INST-79
+-
+   name: 江南大学
+   formalname: 江南大学
+   id: INST-80
+-
+   name: 江苏大学
+   formalname: 江苏大学
+   id: INST-81
+-
+   name: 江苏理工学院
+   formalname: 江苏理工学院
+   id: INST-82
+-
+   name: 江西财经大学
+   formalname: 江西财经大学
+   id: INST-83
+-
+   name: 江西理工大学
+   formalname: 江西理工大学
+   id: INST-84
+-
+   name: 江西理工大学南昌校区
+   formalname: 江西理工大学南昌校区
+   id: INST-85
+-
+   name: 江西农业大学
+   formalname: 江西农业大学
+   id: INST-86
+-
+   name: 江西软件职业技术大学
+   formalname: 江西软件职业技术大学
+   id: INST-87
+-
+   name: 江西师范大学
+   formalname: 江西师范大学
+   id: INST-88
+-
+   name: 九江学院
+   formalname: 九江学院
+   id: INST-89
+-
+   name: 辽宁科技大学
+   formalname: 辽宁科技大学
+   id: INST-90
+-
+   name: 聊城大学
+   formalname: 聊城大学
+   id: INST-91
+-
+   name: 闽南师范大学
+   formalname: 闽南师范大学
+   id: INST-92
+-
+   name: 南昌大学
+   formalname: 南昌大学
+   id: INST-93
+-
+   name: 南昌航空大学
+   formalname: 南昌航空大学
+   id: INST-94
+-
+   name: 南昌理工学院
+   formalname: 南昌理工学院
+   id: INST-95
+-
+   name: 南昌职业大学
+   formalname: 南昌职业大学
+   id: INST-96
+-
+   name: 南华大学
+   formalname: 南华大学
+   id: INST-97
+-
+   name: 南京工程学院
+   formalname: 南京工程学院
+   id: INST-98
+-
+   name: 南京工业大学
+   formalname: 南京工业大学
+   id: INST-99
+-
+   name: 南京航空航天大学
+   formalname: 南京航空航天大学
+   id: INST-100
+-
+   name: 南京理工大学
+   formalname: 南京理工大学
+   id: INST-101
+-
+   name: 南京理工大学紫金学院
+   formalname: 南京理工大学紫金学院
+   id: INST-102
+-
+   name: 南京林业大学
+   formalname: 南京林业大学
+   id: INST-103
+-
+   name: 南京师范大学
+   formalname: 南京师范大学
+   id: INST-104
+-
+   name: 南京晓庄学院
+   formalname: 南京晓庄学院
+   id: INST-105
+-
+   name: 南京信息工程大学
+   formalname: 南京信息工程大学
+   id: INST-106
+-
+   name: 南京邮电大学
+   formalname: 南京邮电大学
+   id: INST-107
+-
+   name: 南通大学
+   formalname: 南通大学
+   id: INST-108
+-
+   name: 南阳理工学院
+   formalname: 南阳理工学院
+   id: INST-109
+-
+   name: 南阳师范学院
+   formalname: 南阳师范学院
+   id: INST-110
+-
+   name: 内蒙古农业大学
+   formalname: 内蒙古农业大学
+   id: INST-111
+-
+   name: 宁波大学
+   formalname: 宁波大学
+   id: INST-112
+-
+   name: 牛客竞赛
+   formalname: 牛客竞赛
+   id: INST-113
+-
+   name: 齐鲁工业大学
+   formalname: 齐鲁工业大学
+   id: INST-114
+-
+   name: 齐齐哈尔大学
+   formalname: 齐齐哈尔大学
+   id: INST-115
+-
+   name: 青岛农业大学
+   formalname: 青岛农业大学
+   id: INST-116
+-
+   name: 曲阜师范大学
+   formalname: 曲阜师范大学
+   id: INST-117
+-
+   name: 三峡大学
+   formalname: 三峡大学
+   id: INST-118
+-
+   name: 厦门大学嘉庚学院
+   formalname: 厦门大学嘉庚学院
+   id: INST-119
+-
+   name: 山东财经大学
+   formalname: 山东财经大学
+   id: INST-120
+-
+   name: 山东大学
+   formalname: 山东大学
+   id: INST-121
+-
+   name: 山东建筑大学
+   formalname: 山东建筑大学
+   id: INST-122
+-
+   name: 山东科技大学
+   formalname: 山东科技大学
+   id: INST-123
+-
+   name: 山东科技大学济南校区
+   formalname: 山东科技大学济南校区
+   id: INST-124
+-
+   name: 山东理工大学
+   formalname: 山东理工大学
+   id: INST-125
+-
+   name: 山东师范大学
+   formalname: 山东师范大学
+   id: INST-126
+-
+   name: 陕西科技大学
+   formalname: 陕西科技大学
+   id: INST-127
+-
+   name: 商丘师范学院
+   formalname: 商丘师范学院
+   id: INST-128
+-
+   name: 上海财经大学
+   formalname: 上海财经大学
+   id: INST-129
+-
+   name: 上海大学
+   formalname: 上海大学
+   id: INST-130
+-
+   name: 上海建桥学院
+   formalname: 上海建桥学院
+   id: INST-131
+-
+   name: 上海交通大学
+   formalname: 上海交通大学
+   id: INST-132
+-
+   name: 韶关学院
+   formalname: 韶关学院
+   id: INST-133
+-
+   name: 深圳北理莫斯科大学
+   formalname: 深圳北理莫斯科大学
+   id: INST-134
+-
+   name: 深圳大学
+   formalname: 深圳大学
+   id: INST-135
+-
+   name: 沈阳航空航天大学
+   formalname: 沈阳航空航天大学
+   id: INST-136
+-
+   name: 沈阳化工大学
+   formalname: 沈阳化工大学
+   id: INST-137
+-
+   name: 沈阳理工大学
+   formalname: 沈阳理工大学
+   id: INST-138
+-
+   name: 沈阳农业大学
+   formalname: 沈阳农业大学
+   id: INST-139
+-
+   name: 沈阳师范大学
+   formalname: 沈阳师范大学
+   id: INST-140
+-
+   name: 四川大学
+   formalname: 四川大学
+   id: INST-141
+-
+   name: 台州学院
+   formalname: 台州学院
+   id: INST-142
+-
+   name: 太仓市第一中学
+   formalname: 太仓市第一中学
+   id: INST-143
+-
+   name: 天津工业大学
+   formalname: 天津工业大学
+   id: INST-144
+-
+   name: 天津仁爱学院
+   formalname: 天津仁爱学院
+   id: INST-145
+-
+   name: 同济大学
+   formalname: 同济大学
+   id: INST-146
+-
+   name: 温州大学
+   formalname: 温州大学
+   id: INST-147
+-
+   name: 武昌理工学院
+   formalname: 武昌理工学院
+   id: INST-148
+-
+   name: 武汉纺织大学
+   formalname: 武汉纺织大学
+   id: INST-149
+-
+   name: 武汉工程大学
+   formalname: 武汉工程大学
+   id: INST-150
+-
+   name: 武汉工程大学邮电与信息工程学院
+   formalname: 武汉工程大学邮电与信息工程学院
+   id: INST-151
+-
+   name: 武汉科技大学
+   formalname: 武汉科技大学
+   id: INST-152
+-
+   name: 武汉理工大学
+   formalname: 武汉理工大学
+   id: INST-153
+-
+   name: 武汉商学院
+   formalname: 武汉商学院
+   id: INST-154
+-
+   name: 武汉学院
+   formalname: 武汉学院
+   id: INST-155
+-
+   name: 武汉职业技术学院
+   formalname: 武汉职业技术学院
+   id: INST-156
+-
+   name: 西安电子科技大学
+   formalname: 西安电子科技大学
+   id: INST-157
+-
+   name: 西安工业大学
+   formalname: 西安工业大学
+   id: INST-158
+-
+   name: 西安交通大学
+   formalname: 西安交通大学
+   id: INST-159
+-
+   name: 西安科技大学
+   formalname: 西安科技大学
+   id: INST-160
+-
+   name: 西安理工大学
+   formalname: 西安理工大学
+   id: INST-161
+-
+   name: 西安邮电大学
+   formalname: 西安邮电大学
+   id: INST-162
+-
+   name: 西北大学
+   formalname: 西北大学
+   id: INST-163
+-
+   name: 西北农林科技大学
+   formalname: 西北农林科技大学
+   id: INST-164
+-
+   name: 西南大学
+   formalname: 西南大学
+   id: INST-165
+-
+   name: 西南交通大学
+   formalname: 西南交通大学
+   id: INST-166
+-
+   name: 西南科技大学
+   formalname: 西南科技大学
+   id: INST-167
+-
+   name: 西南民族大学
+   formalname: 西南民族大学
+   id: INST-168
+-
+   name: 西南石油大学
+   formalname: 西南石油大学
+   id: INST-169
+-
+   name: 香港科技大学（广州）
+   formalname: 香港科技大学（广州）
+   id: INST-170
+-
+   name: 新疆大学
+   formalname: 新疆大学
+   id: INST-171
+-
+   name: 徐州工程学院
+   formalname: 徐州工程学院
+   id: INST-172
+-
+   name: 扬州大学
+   formalname: 扬州大学
+   id: INST-173
+-
+   name: 云南大学
+   formalname: 云南大学
+   id: INST-174
+-
+   name: 长安大学
+   formalname: 长安大学
+   id: INST-175
+-
+   name: 长春大学
+   formalname: 长春大学
+   id: INST-176
+-
+   name: 长江大学
+   formalname: 长江大学
+   id: INST-177
+-
+   name: 长沙理工大学
+   formalname: 长沙理工大学
+   id: INST-178
+-
+   name: 长沙学院
+   formalname: 长沙学院
+   id: INST-179
+-
+   name: 浙大城市学院
+   formalname: 浙大城市学院
+   id: INST-180
+-
+   name: 浙江财经大学
+   formalname: 浙江财经大学
+   id: INST-181
+-
+   name: 浙江工商大学
+   formalname: 浙江工商大学
+   id: INST-182
+-
+   name: 浙江工业大学
+   formalname: 浙江工业大学
+   id: INST-183
+-
+   name: 浙江广厦建设职业技术大学
+   formalname: 浙江广厦建设职业技术大学
+   id: INST-184
+-
+   name: 浙江农林大学暨阳学院
+   formalname: 浙江农林大学暨阳学院
+   id: INST-185
+-
+   name: 浙江育英职业技术学院
+   formalname: 浙江育英职业技术学院
+   id: INST-186
+-
+   name: 郑州大学
+   formalname: 郑州大学
+   id: INST-187
+-
+   name: 郑州轻工业大学
+   formalname: 郑州轻工业大学
+   id: INST-188
+-
+   name: 中北大学
+   formalname: 中北大学
+   id: INST-189
+-
+   name: 中国传媒大学
+   formalname: 中国传媒大学
+   id: INST-190
+-
+   name: 中国地质大学（武汉）
+   formalname: 中国地质大学（武汉）
+   id: INST-191
+-
+   name: 中国计量大学现代科技学院
+   formalname: 中国计量大学现代科技学院
+   id: INST-192
+-
+   name: 中国科学技术大学
+   formalname: 中国科学技术大学
+   id: INST-193
+-
+   name: 中国矿业大学
+   formalname: 中国矿业大学
+   id: INST-194
+-
+   name: 中南大学
+   formalname: 中南大学
+   id: INST-195
+-
+   name: 中南民族大学
+   formalname: 中南民族大学
+   id: INST-196
+-
+   name: 中原工学院
+   formalname: 中原工学院
+   id: INST-197
+-
+   name: 重庆城市科技学院
+   formalname: 重庆城市科技学院
+   id: INST-198
+-
+   name: 重庆大学
+   formalname: 重庆大学
+   id: INST-199
+-
+   name: 重庆科技大学
+   formalname: 重庆科技大学
+   id: INST-200
+-
+   name: 重庆移通学院
+   formalname: 重庆移通学院
+   id: INST-201
+-
+   name: 重庆邮电大学
+   formalname: 重庆邮电大学
+   id: INST-202
+-
+   name: 备用账号
+   formalname: 备用账号
+   id: INST-203

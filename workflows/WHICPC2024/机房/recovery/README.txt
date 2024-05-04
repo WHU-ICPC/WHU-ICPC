@@ -1,0 +1,3 @@
+backup备份/home/acm目录
+recovery还原
+通过设置权限禁止选手访问相关目录

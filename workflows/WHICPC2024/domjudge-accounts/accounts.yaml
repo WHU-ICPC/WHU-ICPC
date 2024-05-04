@@ -1,0 +1,1659 @@
+-
+   id: team001
+   username: team001
+   password: 8baTFf8h
+   type: team
+   team_id: 3
+   name: "嗷呜嘎嘎"
+-
+   id: team002
+   username: team002
+   password: tegaBdfF
+   type: team
+   team_id: 4
+   name: "刘华强买瓜"
+-
+   id: team003
+   username: team003
+   password: bDtR2TQ6
+   type: team
+   team_id: 5
+   name: "好困"
+-
+   id: team004
+   username: team004
+   password: EGA5e939
+   type: team
+   team_id: 6
+   name: "题题不歪真君"
+-
+   id: team005
+   username: team005
+   password: pathahR8
+   type: team
+   team_id: 7
+   name: "infinity loop!"
+-
+   id: team006
+   username: team006
+   password: 6ntBNR8F
+   type: team
+   team_id: 8
+   name: "*慎独"
+-
+   id: team007
+   username: team007
+   password: 8FRAhTQ2
+   type: team
+   team_id: 9
+   name: "*瑶瑶 领先"
+-
+   id: team008
+   username: team008
+   password: d5MrhpTr
+   type: team
+   team_id: 10
+   name: "吃得真香"
+-
+   id: team009
+   username: team009
+   password: Hp4NNeD2
+   type: team
+   team_id: 11
+   name: "命运探知之魔眼"
+-
+   id: team010
+   username: team010
+   password: tbhM4PNP
+   type: team
+   team_id: 12
+   name: "？神？动"
+-
+   id: team011
+   username: team011
+   password: 6f3Fmt2G
+   type: team
+   team_id: 13
+   name: "内核恐慌"
+-
+   id: team012
+   username: team012
+   password: g9a6AFta
+   type: team
+   team_id: 14
+   name: "苯环别碰键盘"
+-
+   id: team013
+   username: team013
+   password: NtNP5HBR
+   type: team
+   team_id: 15
+   name: "好好想想"
+-
+   id: team014
+   username: team014
+   password: d8hTGgBP
+   type: team
+   team_id: 16
+   name: "CZ+Y,G!"
+-
+   id: team015
+   username: team015
+   password: 7Bdprffn
+   type: team
+   team_id: 17
+   name: "都市狂少"
+-
+   id: team016
+   username: team016
+   password: e5pf9dTA
+   type: team
+   team_id: 18
+   name: "好的一天"
+-
+   id: team017
+   username: team017
+   password: d7AFARDP
+   type: team
+   team_id: 19
+   name: "根本做不队"
+-
+   id: team018
+   username: team018
+   password: GqhE9dHp
+   type: team
+   team_id: 20
+   name: "重生之我是猫猫虫"
+-
+   id: team019
+   username: team019
+   password: FfQr7rmt
+   type: team
+   team_id: 21
+   name: "还在整薯条的摸鱼队!"
+-
+   id: team020
+   username: team020
+   password: fM8tbD53
+   type: team
+   team_id: 22
+   name: "指引明路的苍蓝星"
+-
+   id: team021
+   username: team021
+   password: 8hfHdfHq
+   type: team
+   team_id: 23
+   name: "jxau后勤部"
+-
+   id: team022
+   username: team022
+   password: 2DF5mbQp
+   type: team
+   team_id: 24
+   name: "牛刀小试"
+-
+   id: team023
+   username: team023
+   password: q2MTR7Mn
+   type: team
+   team_id: 25
+   name: "关注带工喵，关注带工谢谢喵(≧^.^≦)"
+-
+   id: team024
+   username: team024
+   password: abt6DFtR
+   type: team
+   team_id: 26
+   name: "*七八九"
+-
+   id: team025
+   username: team025
+   password: 89QHAqtp
+   type: team
+   team_id: 27
+   name: "*四五六"
+-
+   id: team026
+   username: team026
+   password: 2DPTr6RM
+   type: team
+   team_id: 28
+   name: "UESTC_十斤鸭梨"
+-
+   id: team027
+   username: team027
+   password: 72nrEgpg
+   type: team
+   team_id: 29
+   name: "东北大学_好果汁"
+-
+   id: team028
+   username: team028
+   password: BAFnfN33
+   type: team
+   team_id: 30
+   name: "东北大学_环形枯竭"
+-
+   id: team029
+   username: team029
+   password: bT8mN2R3
+   type: team
+   team_id: 31
+   name: "心态就是力量"
+-
+   id: team030
+   username: team030
+   password: 5nF5qBbQ
+   type: team
+   team_id: 32
+   name: "都错了都错了呜呜呜呜呜～"
+-
+   id: team031
+   username: team031
+   password: MBGpaHMm
+   type: team
+   team_id: 33
+   name: "去年打铁一整年"
+-
+   id: team032
+   username: team032
+   password: BtEgEatt
+   type: team
+   team_id: 34
+   name: "solo邀请赛"
+-
+   id: team033
+   username: team033
+   password: emaehg7r
+   type: team
+   team_id: 35
+   name: "夜幕降临"
+-
+   id: team034
+   username: team034
+   password: 2Q7M9taq
+   type: team
+   team_id: 36
+   name: "又到了难搞的时候"
+-
+   id: team035
+   username: team035
+   password: Q6tb6Tg4
+   type: team
+   team_id: 37
+   name: "再多一眼看一眼就会 AC"
+-
+   id: team036
+   username: team036
+   password: 8QQNPePP
+   type: team
+   team_id: 38
+   name: "蒟蒻.巨菜.吉祥物"
+-
+   id: team037
+   username: team037
+   password: RNTbfENp
+   type: team
+   team_id: 39
+   name: "绿豆沙"
+-
+   id: team038
+   username: team038
+   password: mPnEHNP7
+   type: team
+   team_id: 40
+   name: "阿伟从小就很可爱"
+-
+   id: team039
+   username: team039
+   password: QRAf3A23
+   type: team
+   team_id: 41
+   name: "流星一条"
+-
+   id: team040
+   username: team040
+   password: fpm5DgRQ
+   type: team
+   team_id: 42
+   name: "姜饼骑士"
+-
+   id: team041
+   username: team041
+   password: Trrmh9NN
+   type: team
+   team_id: 43
+   name: "我要漂亮姐姐教我写代码"
+-
+   id: team042
+   username: team042
+   password: HtAPQ9BG
+   type: team
+   team_id: 44
+   name: "狂怒"
+-
+   id: team043
+   username: team043
+   password: Qt99h4af
+   type: team
+   team_id: 45
+   name: "赌狗"
+-
+   id: team044
+   username: team044
+   password: frmeMb5T
+   type: team
+   team_id: 46
+   name: "冲冲冲"
+-
+   id: team045
+   username: team045
+   password: 3a6aNbDm
+   type: team
+   team_id: 47
+   name: "这把打银了就睡觉"
+-
+   id: team046
+   username: team046
+   password: HqmapmbM
+   type: team
+   team_id: 48
+   name: "算法竞赛老萌新"
+-
+   id: team047
+   username: team047
+   password: 5AbDQNN6
+   type: team
+   team_id: 49
+   name: "学校比我努力"
+-
+   id: team048
+   username: team048
+   password: tabbtRa6
+   type: team
+   team_id: 50
+   name: "我笑了"
+-
+   id: team049
+   username: team049
+   password: TqT3G27e
+   type: team
+   team_id: 51
+   name: "The Wired"
+-
+   id: team050
+   username: team050
+   password: 5Mrr22a6
+   type: team
+   team_id: 52
+   name: "一梦华胥，旅途的终点"
+-
+   id: team051
+   username: team051
+   password: fTrAMtaR
+   type: team
+   team_id: 53
+   name: "战至终章"
+-
+   id: team052
+   username: team052
+   password: reMmeRRQ
+   type: team
+   team_id: 54
+   name: "重生之我在赛场突获异次元力量"
+-
+   id: team053
+   username: team053
+   password: Aag59Db8
+   type: team
+   team_id: 55
+   name: "菜鸟名单"
+-
+   id: team054
+   username: team054
+   password: A3f93H8g
+   type: team
+   team_id: 56
+   name: "帕鲁小队"
+-
+   id: team055
+   username: team055
+   password: t559fQ22
+   type: team
+   team_id: 57
+   name: "霸体螺旋丸"
+-
+   id: team056
+   username: team056
+   password: NanD4ret
+   type: team
+   team_id: 58
+   name: "猫猫虫自动机"
+-
+   id: team057
+   username: team057
+   password: PaFmeebb
+   type: team
+   team_id: 59
+   name: "老学长快爆牌子"
+-
+   id: team058
+   username: team058
+   password: NP7Qtt5E
+   type: team
+   team_id: 60
+   name: "算竞败犬在黑心企业当帕鲁被裁尽显失败人生"
+-
+   id: team059
+   username: team059
+   password: H5aQ6Dq3
+   type: team
+   team_id: 61
+   name: "世界将我们遗弃"
+-
+   id: team060
+   username: team060
+   password: H9bNd9ah
+   type: team
+   team_id: 62
+   name: "想要成为旮旯高手"
+-
+   id: team061
+   username: team061
+   password: gBRbTEFg
+   type: team
+   team_id: 63
+   name: "GG boy"
+-
+   id: team062
+   username: team062
+   password: n4QDn5E5
+   type: team
+   team_id: 64
+   name: "万万大宝贝"
+-
+   id: team063
+   username: team063
+   password: MN7ppq6D
+   type: team
+   team_id: 65
+   name: "好久不见"
+-
+   id: team064
+   username: team064
+   password: ddT94h4r
+   type: team
+   team_id: 66
+   name: "春眠不觉晓"
+-
+   id: team065
+   username: team065
+   password: arDt96pn
+   type: team
+   team_id: 67
+   name: "求求给我个铜吧"
+-
+   id: team066
+   username: team066
+   password: be3bad59
+   type: team
+   team_id: 68
+   name: "栀晓 II"
+-
+   id: team067
+   username: team067
+   password: 4Ng5bt5r
+   type: team
+   team_id: 69
+   name: "见见世面队"
+-
+   id: team068
+   username: team068
+   password: qn2m7R9R
+   type: team
+   team_id: 70
+   name: "AK drea!Its my AC!"
+-
+   id: team069
+   username: team069
+   password: eEMDtrRF
+   type: team
+   team_id: 71
+   name: "Meddle and AC"
+-
+   id: team070
+   username: team070
+   password: DqaFemAe
+   type: team
+   team_id: 72
+   name: "凛冬将至"
+-
+   id: team071
+   username: team071
+   password: d8p9R8Fn
+   type: team
+   team_id: 73
+   name: "Q打断别人的E啊"
+-
+   id: team072
+   username: team072
+   password: MtedhP2f
+   type: team
+   team_id: 74
+   name: "劳动节加训，你说得对，但这就是acmer"
+-
+   id: team073
+   username: team073
+   password: h2R2QBN3
+   type: team
+   team_id: 75
+   name: "我是谁？我在哪？"
+-
+   id: team074
+   username: team074
+   password: e3MTFq4B
+   type: team
+   team_id: 76
+   name: "duoluoluo"
+-
+   id: team075
+   username: team075
+   password: Q9fq2eH7
+   type: team
+   team_id: 77
+   name: "懒大王"
+-
+   id: team076
+   username: team076
+   password: heG3Fh7Q
+   type: team
+   team_id: 78
+   name: "我推的Acmer"
+-
+   id: team077
+   username: team077
+   password: fF3qgQ4b
+   type: team
+   team_id: 79
+   name: "宇宇源刚满十八岁"
+-
+   id: team078
+   username: team078
+   password: fpE8EFht
+   type: team
+   team_id: 80
+   name: "明明如月"
+-
+   id: team079
+   username: team079
+   password: gpqRQpGe
+   type: team
+   team_id: 81
+   name: "且听风吟"
+-
+   id: team080
+   username: team080
+   password: MrRGmrF2
+   type: team
+   team_id: 82
+   name: "这里没有乐子"
+-
+   id: team081
+   username: team081
+   password: GRdR6Qm5
+   type: team
+   team_id: 83
+   name: "*华师一复兴队"
+-
+   id: team082
+   username: team082
+   password: 8A3d9nFH
+   type: team
+   team_id: 84
+   name: "GG Bond"
+-
+   id: team083
+   username: team083
+   password: nQ5Ahm3G
+   type: team
+   team_id: 85
+   name: "巴巴圣德"
+-
+   id: team084
+   username: team084
+   password: dQANb4fp
+   type: team
+   team_id: 86
+   name: "这是注释!不是11!"
+-
+   id: team085
+   username: team085
+   password: aHBf3H7D
+   type: team
+   team_id: 87
+   name: "jsu1"
+-
+   id: team086
+   username: team086
+   password: AE6FeqHf
+   type: team
+   team_id: 88
+   name: "抱歉，这没有集美"
+-
+   id: team087
+   username: team087
+   password: 4ngPEqnt
+   type: team
+   team_id: 89
+   name: "不动的大图书馆"
+-
+   id: team088
+   username: team088
+   password: RMa6qBb9
+   type: team
+   team_id: 90
+   name: "AC几率只有0和100"
+-
+   id: team089
+   username: team089
+   password: 8ap2GAmF
+   type: team
+   team_id: 91
+   name: "扫一遍就过了"
+-
+   id: team090
+   username: team090
+   password: HP2p6TGD
+   type: team
+   team_id: 92
+   name: "正在加载中..."
+-
+   id: team091
+   username: team091
+   password: Br8DpMm4
+   type: team
+   team_id: 93
+   name: "三只小猪"
+-
+   id: team092
+   username: team092
+   password: tmB9rehb
+   type: team
+   team_id: 94
+   name: "ccw"
+-
+   id: team093
+   username: team093
+   password: n7H3n4PT
+   type: team
+   team_id: 95
+   name: "要我起队伍名就无名"
+-
+   id: team094
+   username: team094
+   password: nr7AbeEQ
+   type: team
+   team_id: 96
+   name: "转生成只因，只要ak就能变强"
+-
+   id: team095
+   username: team095
+   password: htGhbBHf
+   type: team
+   team_id: 97
+   name: "区块链软件"
+-
+   id: team096
+   username: team096
+   password: pRgnRMqD
+   type: team
+   team_id: 98
+   name: "道心破碎的卡奇卡"
+-
+   id: team097
+   username: team097
+   password: RNEp5tm9
+   type: team
+   team_id: 99
+   name: "逸一时误一时"
+-
+   id: team098
+   username: team098
+   password: FrQHf9QG
+   type: team
+   team_id: 100
+   name: "武汉两日游"
+-
+   id: team099
+   username: team099
+   password: D2GG4N7g
+   type: team
+   team_id: 101
+   name: "理塘王座"
+-
+   id: team100
+   username: team100
+   password: Egn5h6EE
+   type: team
+   team_id: 102
+   name: "爆个金币"
+-
+   id: team101
+   username: team101
+   password: gbnm9QQq
+   type: team
+   team_id: 103
+   name: "求推荐水平阻生智齿拔除大师"
+-
+   id: team102
+   username: team102
+   password: e4gTmAdM
+   type: team
+   team_id: 104
+   name: "DM寄摆的气定神闲"
+-
+   id: team103
+   username: team103
+   password: 4FPbhbNG
+   type: team
+   team_id: 105
+   name: "强风吹拂"
+-
+   id: team104
+   username: team104
+   password: n2bbm6TA
+   type: team
+   team_id: 106
+   name: "拿牌就找前女友复合队"
+-
+   id: team105
+   username: team105
+   password: bH5nnPHA
+   type: team
+   team_id: 107
+   name: "三个臭铁匠"
+-
+   id: team106
+   username: team106
+   password: A7TqHB3B
+   type: team
+   team_id: 108
+   name: "你在 赣 神魔？"
+-
+   id: team107
+   username: team107
+   password: m539E5PH
+   type: team
+   team_id: 109
+   name: "NJIT_T8_渴望与神里凌华的爱情"
+-
+   id: team108
+   username: team108
+   password: 7PpBEn2n
+   type: team
+   team_id: 110
+   name: "我太想进步了"
+-
+   id: team109
+   username: team109
+   password: pmAFe55q
+   type: team
+   team_id: 111
+   name: "错误"
+-
+   id: team110
+   username: team110
+   password: NNRQ6HpN
+   type: team
+   team_id: 112
+   name: "北宇治高校吹奏乐部"
+-
+   id: team111
+   username: team111
+   password: eFr3dPfN
+   type: team
+   team_id: 113
+   name: "油饼包烧卖"
+-
+   id: team112
+   username: team112
+   password: GDhApg7r
+   type: team
+   team_id: 114
+   name: "原神"
+-
+   id: team113
+   username: team113
+   password: Nnt68dMB
+   type: team
+   team_id: 115
+   name: "25浙软点击就送"
+-
+   id: team114
+   username: team114
+   password: G68Mm2Pq
+   type: team
+   team_id: 116
+   name: "纳西妲世界第一可爱"
+-
+   id: team115
+   username: team115
+   password: ePDqPMMF
+   type: team
+   team_id: 117
+   name: "璃月编程工作室"
+-
+   id: team116
+   username: team116
+   password: 42DhTanA
+   type: team
+   team_id: 118
+   name: "PTY & Msstt & Frb"
+-
+   id: team117
+   username: team117
+   password: ptndFFBr
+   type: team
+   team_id: 119
+   name: "我不想读研"
+-
+   id: team118
+   username: team118
+   password: T5ghh6fE
+   type: team
+   team_id: 120
+   name: "乐奈，你可以吃抹茶巴菲"
+-
+   id: team119
+   username: team119
+   password: h9natG9d
+   type: team
+   team_id: 121
+   name: "武大的樱花开了吗？"
+-
+   id: team120
+   username: team120
+   password: fGhfGQFb
+   type: team
+   team_id: 122
+   name: "来只秃头唐龙"
+-
+   id: team121
+   username: team121
+   password: HAD9aPTb
+   type: team
+   team_id: 123
+   name: "rainday"
+-
+   id: team122
+   username: team122
+   password: PNPd3753
+   type: team
+   team_id: 124
+   name: "队长单身10年换个牌"
+-
+   id: team123
+   username: team123
+   password: 8NEb7gMG
+   type: team
+   team_id: 125
+   name: "让我再A一道题"
+-
+   id: team124
+   username: team124
+   password: fbFMPP2D
+   type: team
+   team_id: 126
+   name: "重生之我在双一流综合性创新创业大学受训两年半"
+-
+   id: team125
+   username: team125
+   password: mEAHEaDE
+   type: team
+   team_id: 127
+   name: "*本场题目改编成两场牛客周赛"
+-
+   id: team126
+   username: team126
+   password: mqdtFhH6
+   type: team
+   team_id: 128
+   name: "举牌喵喵机"
+-
+   id: team127
+   username: team127
+   password: RQBdar22
+   type: team
+   team_id: 129
+   name: "灌注小楠酿至圣喵"
+-
+   id: team128
+   username: team128
+   password: 8fm3h46q
+   type: team
+   team_id: 130
+   name: "报销是你的谎言"
+-
+   id: team129
+   username: team129
+   password: GtQtt6ta
+   type: team
+   team_id: 131
+   name: "你已被剥夺力量"
+-
+   id: team130
+   username: team130
+   password: H2rHMARP
+   type: team
+   team_id: 132
+   name: "背着学妹偷偷WA"
+-
+   id: team131
+   username: team131
+   password: mGqneaH5
+   type: team
+   team_id: 133
+   name: "我想吃麦当劳"
+-
+   id: team132
+   username: team132
+   password: D2MB8MEE
+   type: team
+   team_id: 134
+   name: "复活赛打赢了"
+-
+   id: team133
+   username: team133
+   password: f5PPmTGp
+   type: team
+   team_id: 135
+   name: "SDOI2022"
+-
+   id: team134
+   username: team134
+   password: 6nQaDpme
+   type: team
+   team_id: 136
+   name: "老登滑冰场"
+-
+   id: team135
+   username: team135
+   password: rar27tHb
+   type: team
+   team_id: 137
+   name: "大明湖水怪"
+-
+   id: team136
+   username: team136
+   password: H5hRFHE8
+   type: team
+   team_id: 138
+   name: "柏林号"
+-
+   id: team137
+   username: team137
+   password: pT6eNfBG
+   type: team
+   team_id: 139
+   name: "泉韵"
+-
+   id: team138
+   username: team138
+   password: fbfG5HH2
+   type: team
+   team_id: 140
+   name: "只此一发"
+-
+   id: team139
+   username: team139
+   password: DPBHFdP4
+   type: team
+   team_id: 141
+   name: "二原组"
+-
+   id: team140
+   username: team140
+   password: 9eaHdDQH
+   type: team
+   team_id: 142
+   name: "昼夜平分时"
+-
+   id: team141
+   username: team141
+   password: HNemghg8
+   type: team
+   team_id: 143
+   name: "豫东师范大学队"
+-
+   id: team142
+   username: team142
+   password: a4aanD4A
+   type: team
+   team_id: 144
+   name: "IDLE MASTER O149"
+-
+   id: team143
+   username: team143
+   password: BDDGhn3h
+   type: team
+   team_id: 145
+   name: "乐子人"
+-
+   id: team144
+   username: team144
+   password: H5p7bAe8
+   type: team
+   team_id: 146
+   name: "只要微笑就日薪越亿x"
+-
+   id: team145
+   username: team145
+   password: tnDgGeGE
+   type: team
+   team_id: 147
+   name: "木毛馆"
+-
+   id: team146
+   username: team146
+   password: M3hdnNPA
+   type: team
+   team_id: 148
+   name: "CRYCHIC"
+-
+   id: team147
+   username: team147
+   password: A3Q6PHDp
+   type: team
+   team_id: 149
+   name: "逆命"
+-
+   id: team148
+   username: team148
+   password: dqNFBP6b
+   type: team
+   team_id: 150
+   name: "我看队友打代码"
+-
+   id: team149
+   username: team149
+   password: 7Am6bMBa
+   type: team
+   team_id: 151
+   name: "我们三个不玩原神"
+-
+   id: team150
+   username: team150
+   password: Mr296qnT
+   type: team
+   team_id: 152
+   name: "你不干有的是帕鲁干"
+-
+   id: team151
+   username: team151
+   password: 2hR5FmE8
+   type: team
+   team_id: 153
+   name: "青春acm少年不会梦见5d0学姐"
+-
+   id: team152
+   username: team152
+   password: 8Mq5RGf7
+   type: team
+   team_id: 154
+   name: "带带我"
+-
+   id: team153
+   username: team153
+   password: 2g99DEGP
+   type: team
+   team_id: 155
+   name: "她的誓言我爆笑三年哦一啊哦嘻嘻哈哈嘻哈嘻"
+-
+   id: team154
+   username: team154
+   password: rPdqqrbD
+   type: team
+   team_id: 156
+   name: "中专退学icpc再就业"
+-
+   id: team155
+   username: team155
+   password: rdA52EFa
+   type: team
+   team_id: 157
+   name: "兄弟你好香"
+-
+   id: team156
+   username: team156
+   password: E9tDgphe
+   type: team
+   team_id: 158
+   name: "《键盘 鼠标 显示器》《空调 湿度 评测机》"
+-
+   id: team157
+   username: team157
+   password: nBnpGtN7
+   type: team
+   team_id: 159
+   name: "怎么回事我泡个温泉首A没了"
+-
+   id: team158
+   username: team158
+   password: GNnFe7h8
+   type: team
+   team_id: 160
+   name: "别垂头丧气"
+-
+   id: team159
+   username: team159
+   password: R75fnbBp
+   type: team
+   team_id: 161
+   name: "*春夏女我却满身的儿科你的少女风"
+-
+   id: team160
+   username: team160
+   password: G5ffHtg6
+   type: team
+   team_id: 162
+   name: "其实我是起名废物"
+-
+   id: team161
+   username: team161
+   password: PqfD29nH
+   type: team
+   team_id: 163
+   name: "梦幻小丑"
+-
+   id: team162
+   username: team162
+   password: B5q9GdH2
+   type: team
+   team_id: 164
+   name: "黄渡技术幼儿园"
+-
+   id: team163
+   username: team163
+   password: GPBmF2nT
+   type: team
+   team_id: 165
+   name: "温大二队"
+-
+   id: team164
+   username: team164
+   password: 9mtm2RnD
+   type: team
+   team_id: 166
+   name: "温大一队"
+-
+   id: team165
+   username: team165
+   password: H64fr5Ra
+   type: team
+   team_id: 167
+   name: "沙烬姐姐雅沙西"
+-
+   id: team166
+   username: team166
+   password: EFBBpGbd
+   type: team
+   team_id: 168
+   name: "我的青春AC物语果然没有恋爱"
+-
+   id: team167
+   username: team167
+   password: 4PGae2eG
+   type: team
+   team_id: 169
+   name: "深藏blue2.0"
+-
+   id: team168
+   username: team168
+   password: FbmM8bpd
+   type: team
+   team_id: 170
+   name: "星空"
+-
+   id: team169
+   username: team169
+   password: aBD8bEtm
+   type: team
+   team_id: 171
+   name: "以上队伍成绩全部无效"
+-
+   id: team170
+   username: team170
+   password: EFagH9Gr
+   type: team
+   team_id: 172
+   name: "重生之区域赛觉醒器灵"
+-
+   id: team171
+   username: team171
+   password: R2t2Mq78
+   type: team
+   team_id: 173
+   name: "幻想乡旅行团"
+-
+   id: team172
+   username: team172
+   password: tGbGe93m
+   type: team
+   team_id: 174
+   name: "机械降神"
+-
+   id: team173
+   username: team173
+   password: rdDfH9f2
+   type: team
+   team_id: 175
+   name: "牧马人"
+-
+   id: team174
+   username: team174
+   password: 69G6Td4A
+   type: team
+   team_id: 176
+   name: "我必须思考这是否是我此生仅有的机会"
+-
+   id: team175
+   username: team175
+   password: 3aHQ4Fd3
+   type: team
+   team_id: 177
+   name: "沈济超的私生饭"
+-
+   id: team176
+   username: team176
+   password: drAG288T
+   type: team
+   team_id: 178
+   name: "游戏启动"
+-
+   id: team177
+   username: team177
+   password: BMrndnEA
+   type: team
+   team_id: 179
+   name: "武汉旅游观光团"
+-
+   id: team178
+   username: team178
+   password: aEEbF8HH
+   type: team
+   team_id: 180
+   name: "超级梦之队"
+-
+   id: team179
+   username: team179
+   password: FrpdhqA4
+   type: team
+   team_id: 181
+   name: "我的队友失踪了"
+-
+   id: team180
+   username: team180
+   password: TTQqehGt
+   type: team
+   team_id: 182
+   name: "写都写了，交一发吧"
+-
+   id: team181
+   username: team181
+   password: b6QmB6b8
+   type: team
+   team_id: 183
+   name: "给我块牌子吧我什么都愿意做的"
+-
+   id: team182
+   username: team182
+   password: H6t3F6hG
+   type: team
+   team_id: 184
+   name: "神秘的力量"
+-
+   id: team183
+   username: team183
+   password: QHQrREb6
+   type: team
+   team_id: 185
+   name: "牢大，排名这么高不拍坠机吗"
+-
+   id: team184
+   username: team184
+   password: 7eBh2nhM
+   type: team
+   team_id: 186
+   name: "剑舞者"
+-
+   id: team185
+   username: team185
+   password: ntFRFgaB
+   type: team
+   team_id: 187
+   name: "诀别之旅"
+-
+   id: team186
+   username: team186
+   password: 3g5qFqeq
+   type: team
+   team_id: 188
+   name: "放松心情"
+-
+   id: team187
+   username: team187
+   password: PddM5NRr
+   type: team
+   team_id: 189
+   name: "电灯泡心也会痛"
+-
+   id: team188
+   username: team188
+   password: ntDraTnN
+   type: team
+   team_id: 190
+   name: "新的开始"
+-
+   id: team189
+   username: team189
+   password: rmnD94eB
+   type: team
+   team_id: 191
+   name: "我将终究顺流入大海"
+-
+   id: team190
+   username: team190
+   password: Hr7N3464
+   type: team
+   team_id: 192
+   name: "原神，启动！"
+-
+   id: team191
+   username: team191
+   password: GQ262ABT
+   type: team
+   team_id: 193
+   name: "S属性大爆发"
+-
+   id: team192
+   username: team192
+   password: fA5prgBd
+   type: team
+   team_id: 194
+   name: "三个O"
+-
+   id: team193
+   username: team193
+   password: M3GdfP39
+   type: team
+   team_id: 195
+   name: "珞珈山的驼色闪电（武汉五日游版）"
+-
+   id: team194
+   username: team194
+   password: hPnA63qG
+   type: team
+   team_id: 196
+   name: "抱歉,这里没有美少女"
+-
+   id: team195
+   username: team195
+   password: e66T5G5M
+   type: team
+   team_id: 197
+   name: "魔理沙偷走了重要的东西"
+-
+   id: team196
+   username: team196
+   password: qm8tNf5e
+   type: team
+   team_id: 198
+   name: "小爱同学，想个队名"
+-
+   id: team197
+   username: team197
+   password: rGRTMnht
+   type: team
+   team_id: 199
+   name: "神樱树"
+-
+   id: team198
+   username: team198
+   password: A3mHmEqe
+   type: team
+   team_id: 200
+   name: "老acmer烧烤"
+-
+   id: team199
+   username: team199
+   password: tgEd2n5m
+   type: team
+   team_id: 201
+   name: "三菜无汤"
+-
+   id: team200
+   username: team200
+   password: rHH9Td7T
+   type: team
+   team_id: 202
+   name: "人为什么要起床"
+-
+   id: team201
+   username: team201
+   password: n2Ht8etg
+   type: team
+   team_id: 203
+   name: "三脸懵逼"
+-
+   id: team202
+   username: team202
+   password: R7RNbnRb
+   type: team
+   team_id: 204
+   name: "星辰雨"
+-
+   id: team203
+   username: team203
+   password: TmFMah3T
+   type: team
+   team_id: 205
+   name: "压缩猫巾"
+-
+   id: team204
+   username: team204
+   password: Me48tFpr
+   type: team
+   team_id: 206
+   name: "卡丘领域大师"
+-
+   id: team205
+   username: team205
+   password: MTbrRGhT
+   type: team
+   team_id: 207
+   name: "空花阳焰"
+-
+   id: team206
+   username: team206
+   password: gHGAQHe2
+   type: team
+   team_id: 208
+   name: "ZJUT5"
+-
+   id: team207
+   username: team207
+   password: 9p5nqPF7
+   type: team
+   team_id: 209
+   name: "vivo50"
+-
+   id: team208
+   username: team208
+   password: QNrGpANe
+   type: team
+   team_id: 210
+   name: "永昼"
+-
+   id: team209
+   username: team209
+   password: Q2fnfT3N
+   type: team
+   team_id: 211
+   name: "育英六队"
+-
+   id: team210
+   username: team210
+   password: qrHaQn87
+   type: team
+   team_id: 212
+   name: "当夜色消散"
+-
+   id: team211
+   username: team211
+   password: A3RGa97r
+   type: team
+   team_id: 213
+   name: "易马平川"
+-
+   id: team212
+   username: team212
+   password: DgrQPFG8
+   type: team
+   team_id: 214
+   name: "队友天生acm圣体却被计组乱杀"
+-
+   id: team213
+   username: team213
+   password: f9FrNPqr
+   type: team
+   team_id: 215
+   name: "从零开始的acm生活"
+-
+   id: team214
+   username: team214
+   password: Tdg353aR
+   type: team
+   team_id: 216
+   name: "地能儿是这样的"
+-
+   id: team215
+   username: team215
+   password: R2BMRmmP
+   type: team
+   team_id: 217
+   name: "燃烧你的梦"
+-
+   id: team216
+   username: team216
+   password: QRgDmP4b
+   type: team
+   team_id: 218
+   name: "蓝桥春雪"
+-
+   id: team217
+   username: team217
+   password: tbqqNQm6
+   type: team
+   team_id: 219
+   name: "在路上了"
+-
+   id: team218
+   username: team218
+   password: gn8dM6M2
+   type: team
+   team_id: 220
+   name: "没有围墙"
+-
+   id: team219
+   username: team219
+   password: Rf9hQhTp
+   type: team
+   team_id: 221
+   name: "Just a Way"
+-
+   id: team220
+   username: team220
+   password: qRF7efFm
+   type: team
+   team_id: 222
+   name: "给我offer吧，让我做什么都可以"
+-
+   id: team221
+   username: team221
+   password: hFgDHeeQ
+   type: team
+   team_id: 223
+   name: "先行者"
+-
+   id: team222
+   username: team222
+   password: Qrg547D3
+   type: team
+   team_id: 224
+   name: "虚空幻想"
+-
+   id: team223
+   username: team223
+   password: mNbmMRQE
+   type: team
+   team_id: 225
+   name: "那道签到题毁了我的ACM梦"
+-
+   id: team224
+   username: team224
+   password: 75TrFh96
+   type: team
+   team_id: 226
+   name: "云梦泽"
+-
+   id: team225
+   username: team225
+   password: GEFPRafb
+   type: team
+   team_id: 227
+   name: "没什么可失去的"
+-
+   id: team226
+   username: team226
+   password: FFBe9A9t
+   type: team
+   team_id: 228
+   name: "有热辣香骨鸡吗？"
+-
+   id: team227
+   username: team227
+   password: dd6564a9
+   type: team
+   team_id: 229
+   name: "君与彼ICPC与彼ICPC之恋"
+-
+   id: team228
+   username: team228
+   password: 775d78N7
+   type: team
+   team_id: 231
+   name: "**备用账号01"
+-
+   id: team229
+   username: team229
+   password: mpAeRG6b
+   type: team
+   team_id: 232
+   name: "**备用账号02"
+-
+   id: team230
+   username: team230
+   password: 8rppMrN8
+   type: team
+   team_id: 233
+   name: "**备用账号03"
+-
+   id: team231
+   username: team231
+   password: 642Q67m6
+   type: team
+   team_id: 234
+   name: "**备用账号04"
+-
+   id: team232
+   username: team232
+   password: 52bMRa9D
+   type: team
+   team_id: 235
+   name: "**备用账号05"
+-
+   id: team233
+   username: team233
+   password: ebNBGBGh
+   type: team
+   team_id: 236
+   name: "**备用账号06"
+-
+   id: team234
+   username: team234
+   password: eg3NNBq3
+   type: team
+   team_id: 237
+   name: "**备用账号07"
+-
+   id: team235
+   username: team235
+   password: GAR45BB7
+   type: team
+   team_id: 238
+   name: "**备用账号08"
+-
+   id: team236
+   username: team236
+   password: 6H6nreDa
+   type: team
+   team_id: 239
+   name: "**备用账号09"
+-
+   id: team237
+   username: team237
+   password: E55a25e2
+   type: team
+   team_id: 240
+   name: "**备用账号10"
