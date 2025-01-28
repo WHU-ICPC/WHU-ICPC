@@ -1,5 +1,180 @@
 [
   {
+    "season": "2024-2025 赛季 (49th ICPC | 10th CCPC)",
+    "contests": [
+      {
+        "contest": "ICPC EC Final 西安",
+        "date": "2024/12/28",
+        "teams": [
+          {
+            "team": "秘封俱乐部",
+            "members": "李佳隆、熊师飏、潘非",
+            "prize": "银奖"
+          },
+          {
+            "team": "出包大怪 真厉害啊沈阳站，我大概这辈子都不会忘记你吧",
+            "members": "苏泓宇、胡文锦、李王城 ",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 成都",
+        "date": "2024/10/27",
+        "teams": [
+          {
+            "team": "重修数理基础",
+            "members": "林喆霖、蔡子、范锦炜",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 杭州",
+        "date": "2024/11/10",
+        "teams": [
+          {
+            "team": "秘封俱乐部",
+            "members": "李佳隆、潘非、熊师飏",
+            "prize": "金奖"
+          },
+          {
+            "team": "ACMore",
+            "members": "杨曦、陈宇轩、黄祯",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 昆明",
+        "date": "2024/12/01",
+        "teams": [
+          {
+            "team": "蜜蜂俱乐部",
+            "members": "李佳隆、潘非、熊师飏",
+            "prize": "金奖"
+          },
+          {
+            "team": "终末旅行",
+            "members": "李澍、厉汪扬、解丛语",
+            "prize": "铜奖"
+          },
+          {
+            "team": "依存症",
+            "members": "林喆霖、蔡子、范锦炜",
+            "prize": "铜奖"
+          },
+          {
+            "team": "请问您今天要来点蘑菇吗？",
+            "members": "戴天奕、杨锦熙、魏俊涛",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 南京",
+        "date": "2024/11/03",
+        "teams": [
+          {
+            "team": "永恒罅隙",
+            "members": "张涵、孙阳光、金润禾",
+            "prize": "银奖"
+          },
+          {
+            "team": "三个人凑不出一个队名",
+            "members": "徐嘉浩、罗岑、柯昀志",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 上海",
+        "date": "2024/11/17",
+        "teams": [
+          {
+            "team": "JUMPING WIN！",
+            "members": "徐嘉浩、罗岑、柯昀志",
+            "prize": "金奖"
+          },
+          {
+            "team": "魔女之旅",
+            "members": "李澍、厉汪扬、解丛语 ",
+            "prize": "银奖"
+          }
+        ]
+      },
+      {
+        "contest": "ICPC 沈阳",
+        "date": "2024/11/24",
+        "teams": [
+          {
+            "team": "微信余额负五十",
+            "members": "李王城、苏泓宇、胡文锦",
+            "prize": "银奖"
+          },
+          {
+            "team": "果茶",
+            "members": "孙阳光、张涵、金润禾 ",
+            "prize": "银奖"
+          },
+          {
+            "team": "两位大佬和他们的飞舞队员",
+            "members": "苌子杰、毛一凡、王舒睿 ",
+            "prize": "铜奖"
+          },
+          {
+            "team": "鼠不尽",
+            "members": "黄子君、张子红、扶阳 ",
+            "prize": "铜奖"
+          }
+        ]
+      },
+      {
+        "contest": "CCPC 济南",
+        "date": "2024/10/27",
+        "teams": [
+          {
+            "team": "秘封俱乐部",
+            "members": "潘非、李佳隆、熊师飏",
+            "prize": "银奖"
+          }
+        ]
+      },
+      {
+        "contest": "CCPC 女生专场",
+        "date": "2024/11/03",
+        "teams": [
+          {
+            "team": "鼠鼠我啊觉得你不对劲",
+            "members": "张子红、黄子君、扶阳",
+            "prize": "银奖"
+          }
+        ]
+      },
+      {
+        "contest": "CCPC 重庆",
+        "date": "2024/11/10",
+        "teams": [
+          {
+            "team": "超高校级的xcpc玩家",
+            "members": "徐嘉浩、柯昀志、罗岑",
+            "prize": "银奖"
+          },
+          {
+            "team": "队友原神抽卡倾家荡产还歪了导致没钱报名",
+            "members": "苌子杰、毛一凡、王舒睿",
+            "prize": "铜奖"
+          },
+          {
+            "team": "望春风",
+            "members": "厉汪扬、解丛语、李澍",
+            "prize": "铜奖"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "season": "2023-2024 赛季 (48th ICPC | 9th CCPC)",
     "contests": [
       {
